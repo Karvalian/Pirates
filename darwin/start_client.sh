@@ -1,2 +1,2 @@
 cd ..
-ppython -m pirates.piratesbase.PiratesStart
+python3 -m pirates.piratesbase.PiratesStart
